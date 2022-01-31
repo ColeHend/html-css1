@@ -22,9 +22,6 @@ li > button {
   border-radius: 15px;
   color: white;
 }
-div {
-  margin: 0 auto;
-}
 ul {
   list-style: none;
 }
@@ -34,11 +31,11 @@ li {
   text-size-adjust: auto;
   cursor: pointer;
 }
-button:hover{
-    cursor: pointer;
+button:hover {
+  cursor: pointer;
 }
 /* BELOW NAVBAR */
-img{
+img {
   display: block;
   margin-bottom: 5px;
   margin-right: auto;
@@ -46,22 +43,27 @@ img{
 }
 
 /* TABLE STUFF */
-table,th,tr,td {
+table,
+th,
+tr,
+td {
   margin: 10px;
   border: black 2px solid;
 }
-table,th {
+table,
+th {
   box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.986);
   text-align: center;
 }
-td,th {
+td,
+th {
   width: 200px;
   height: 20px;
   position: relative;
 }
 table {
-    margin-right: auto;
-    margin-left: auto;
+  margin-right: auto;
+  margin-left: auto;
 }
 td {
   box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.479);
